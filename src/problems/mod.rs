@@ -8,6 +8,7 @@ pub mod lc_0088_merge_sorted_array;
 pub mod lc_0125_valid_palindrome;
 pub mod lc_0167_two_sum_ii;
 pub mod lc_0169_majority_element;
+pub mod lc_0198_house_robber;
 pub mod lc_0202_happy_number;
 pub mod lc_0205_isomorphic_strings;
 pub mod lc_0209_minimum_size_subarray_sum;
