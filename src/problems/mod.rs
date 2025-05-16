@@ -19,5 +19,6 @@ pub mod lc_0290_word_pattern;
 pub mod lc_0350_intersection_of_two_arrays_ii;
 pub mod lc_0383_ransom_note;
 pub mod lc_0387_first_unique_character_in_a_string;
+pub mod lc_0509_fibonacci_number;
 pub mod lc_0645_set_mismatch;
 pub mod lc_0724_find_pivot_index;

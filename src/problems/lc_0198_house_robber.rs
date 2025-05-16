@@ -24,6 +24,7 @@ pub fn _run() {
     }
 }
 
+// a is i robbed this house
 pub fn _rob(nums: Vec<i32>) -> i32 {
     if nums.len() == 1 {
         return nums[0];
@@ -47,4 +48,25 @@ pub fn _rob(nums: Vec<i32>) -> i32 {
         max_money = max(max_money, n);
     }
     max_money
+}
+
+// a is the max money for reaching this house
+pub fn _rob_2(nums: Vec<i32>) -> i32 {
+    let n = nums.len();
+    if n == 0 {
+        return 0;
+    }
+    if n == 1 {
+        return nums[0];
+    }
+
+    let mut a = vec![0; n];
+    a[0] = nums[0];
+    a[1] = max(nums[0], nums[1]);
+
+    for i in 2..n {
+        a[i] = max(a[i - 1], a[i - 2] + nums[i]);
+    }
+
+    a[n - 1]
 }
