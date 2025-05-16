@@ -1,0 +1,9 @@
+[package]
+name = "leetcode"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+regex = "1"
+toposort-scc = "0.5.4"
+transpose = "0.2.3"

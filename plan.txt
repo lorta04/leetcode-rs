@@ -1,0 +1,73 @@
+📋 Handpicked Problem List
+1. Arrays and Strings
+Two Sum
+
+Best Time to Buy and Sell Stock
+
+Valid Palindrome
+
+Longest Substring Without Repeating Characters
+
+Move Zeroes
+
+Contains Duplicate
+
+Majority Element
+
+Merge Sorted Array
+
+Find Pivot Index
+
+Plus One
+
+2. HashMap and Set
+Valid Anagram
+
+Two Sum II - Input array is sorted
+
+Intersection of Two Arrays II
+
+Group Anagrams
+
+Happy Number
+
+Isomorphic Strings
+
+Word Pattern
+
+Set Mismatch
+
+First Unique Character in a String
+
+Ransom Note
+
+3. Two Pointers / Sliding Window
+Container With Most Water
+
+Minimum Size Subarray Sum
+
+3Sum
+
+(Notice: Valid Palindrome and Longest Substring Without Repeating Characters are also two-pointers already.)
+
+4. Recursion and Basic Dynamic Programming
+Climbing Stairs
+
+House Robber
+
+Maximum Subarray
+
+Fibonacci Number
+
+Coin Change
+
+5. Graph Traversal (BFS/DFS)
+Number of Islands
+
+Flood Fill
+
+Clone Graph
+
+Course Schedule
+
+Detect Cycle in Directed Graph (Course Schedule II) (optional harder one)
