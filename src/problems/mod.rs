@@ -3,6 +3,7 @@ pub mod lc_0011_container_with_most_water;
 pub mod lc_0015_3sum;
 pub mod lc_0049_group_anagrams;
 pub mod lc_0066_plus_one;
+pub mod lc_0070_climbing_stairs;
 pub mod lc_0088_merge_sorted_array;
 pub mod lc_0125_valid_palindrome;
 pub mod lc_0167_two_sum_ii;

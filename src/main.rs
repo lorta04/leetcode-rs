@@ -1,5 +1,5 @@
 mod problems;
 
 fn main() {
-    problems::lc_0015_3sum::_run()
+    problems::lc_0070_climbing_stairs::_run()
 }
