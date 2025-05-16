@@ -1,5 +1,5 @@
 mod problems;
 
 fn main() {
-    problems::lc_0509_fibonacci_number::_run()
+    problems::lc_0053_maximum_subarray::_run()
 }

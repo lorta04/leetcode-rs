@@ -2,6 +2,7 @@ pub mod lc_0003_longest_substring_without_repeating_characters;
 pub mod lc_0011_container_with_most_water;
 pub mod lc_0015_3sum;
 pub mod lc_0049_group_anagrams;
+pub mod lc_0053_maximum_subarray;
 pub mod lc_0066_plus_one;
 pub mod lc_0070_climbing_stairs;
 pub mod lc_0088_merge_sorted_array;
