@@ -1,5 +1,5 @@
 mod problems;
 
 fn main() {
-    problems::lc_0209_minimum_size_subarray_sum::_run()
+    problems::lc_0015_3sum::_run()
 }
