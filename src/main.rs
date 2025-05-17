@@ -1,5 +1,5 @@
 mod problems;
 
 fn main() {
-    problems::lc_0053_maximum_subarray::_run()
+    problems::lc_0200_number_of_islands::_run()
 }
