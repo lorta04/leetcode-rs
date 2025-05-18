@@ -13,6 +13,7 @@ pub mod lc_0198_house_robber;
 pub mod lc_0200_number_of_islands;
 pub mod lc_0202_happy_number;
 pub mod lc_0205_isomorphic_strings;
+pub mod lc_0207_course_schedule;
 pub mod lc_0209_minimum_size_subarray_sum;
 pub mod lc_0217_contains_duplicate;
 pub mod lc_0242_valid_anagram;
