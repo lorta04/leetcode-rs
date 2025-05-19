@@ -1,5 +1,5 @@
 mod problems;
 
 fn main() {
-    problems::lc_0207_course_schedule::_run()
+    problems::lc_0210_course_schedule_ii::_run()
 }
