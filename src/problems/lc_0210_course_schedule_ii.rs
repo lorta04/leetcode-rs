@@ -1,4 +1,4 @@
-use std::{collections::HashSet, fs, path::Path};
+use std::{fs, path::Path};
 
 const _INPUT_FILE: &str = "input/lc_0210_course_schedule_ii.txt";
 

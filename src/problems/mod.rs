@@ -21,6 +21,7 @@ pub mod lc_0242_valid_anagram;
 pub mod lc_0283_move_zeroes;
 pub mod lc_0290_word_pattern;
 pub mod lc_0322_coin_change;
+pub mod lc_0347_top_k_frequent_elements;
 pub mod lc_0350_intersection_of_two_arrays_ii;
 pub mod lc_0383_ransom_note;
 pub mod lc_0387_first_unique_character_in_a_string;
