@@ -1,4 +1,4 @@
-use std::{collections::HashMap, fs, i32::MIN};
+use std::{collections::HashMap, fs};
 
 const _INPUT_FILE: &str = "input/lc_0347_top_k_frequent_elements.txt";
 

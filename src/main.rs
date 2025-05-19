@@ -1,5 +1,5 @@
 mod problems;
 
 fn main() {
-    problems::lc_0347_top_k_frequent_elements::_run()
+    problems::lc_0238_product_of_array_except_self::_run()
 }

@@ -17,6 +17,7 @@ pub mod lc_0207_course_schedule;
 pub mod lc_0209_minimum_size_subarray_sum;
 pub mod lc_0210_course_schedule_ii;
 pub mod lc_0217_contains_duplicate;
+pub mod lc_0238_product_of_array_except_self;
 pub mod lc_0242_valid_anagram;
 pub mod lc_0283_move_zeroes;
 pub mod lc_0290_word_pattern;
